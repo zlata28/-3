@@ -1,15 +1,18 @@
 table {
-	table-layout:fixed; width:500px;
+
+	table-layout:width: 300px; height:100pt;
+	}
+	 #red{
+		color:red;	
+	}
+    #black{
+		color: black;
+	}
+#red,#black{
+	background-color:gainsboro;
 }
-table td {
-	overflow:hidden;
-}
-table td:nth-of-type(1) {
-	width:200px;
-}
-table td:nth-of-type(2) {
-	width:75px;
-}
-table td:nth-of-type(3) {
-	width:175px;
+
+#red,#black{
+	
+	font-size: xx-large
 }
