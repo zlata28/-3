@@ -8,3 +8,5 @@ table {
   .coln {
     width: 60px;
   }
+  table {
+	table-layout: fixed	
