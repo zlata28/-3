@@ -2,7 +2,6 @@ table{
 	table-layout;
 	width: 300px;
 	padding: 20px;
-
 }
 	 #red{
 		text-align: center;
@@ -22,5 +21,4 @@ table{
 }
 td{
 	line-height: 30px;
-
 }
