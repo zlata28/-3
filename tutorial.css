@@ -1,17 +1,18 @@
 h1,h2{
-text-align: center;    
+  text-align: center;  
 }
 
 P{
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-    u.dotted{
-    border-bottom: 1px dashed #999;
-    text-decoration: none; 
+u.dotted{
+  border-bottom: 1px dashed #999;
+  text-decoration: none; 
   }
-  span{
-    color: red;
+span{
+  color: black;
   }
-  table{
-    tab-size: 0pt;
+  .news__local { 
+    background-color: bisque;
+    color: aqua;
   }
